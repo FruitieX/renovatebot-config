@@ -15,7 +15,13 @@
   ],
   "rangeStrategy": "pin",
   "lockFileMaintenance": {
-    "enabled": true,
+    "enabled": true
+  },
+  "pin": {
+    "automerge": true
+  },
+  "pinDigest": {
+    "automerge": true
   },
   "packageRules": [
     {
